@@ -1,4 +1,5 @@
 # passthrough-proxmox
+nano /etc/default/grub
 #update grub
 update-grub
 #check
